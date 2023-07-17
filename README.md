@@ -3,8 +3,6 @@
 **` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
 
 ### Hello there! 👋
-[hellothere.webm](https://github.com/vnnikolov30/vnnikolov30/assets/122814861/f15ab192-4f7c-4cac-976f-7215032093a5)
-
 
 My name is Viktor. Welcome to my own little digital world!
 
