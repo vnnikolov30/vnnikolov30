@@ -1,5 +1,7 @@
 # 👽 Viktor Nikolov 
 
+![michael dale](https://github.com/vnnikolov30/vnnikolov30/assets/122814861/08b39f7e-f519-4ed5-9312-27342ed21f0a)
+
 **` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
 
 ### Hello there! 👋
