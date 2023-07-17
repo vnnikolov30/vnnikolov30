@@ -8,7 +8,7 @@
 
 My name is Viktor. Welcome to my own little digital world!
 
-I am currently studying Software Engineering with Python 🐍 at Software University (SoftUni), i've also dabbled in some JS, HTML and CSS.
+I am currently studying Software Engineering with Python 🐍 at Software University (SoftUni), i've also dabbled in some JS, HTML and CSS as well as QA Testing.
 
 I have worked on some really small projects like an AI image generator🎨, a simple platformer using Pygame 🕹️ and i am also in the process of developing a website/portfolio for my music production alias "Voorhees"🎵. 
 
