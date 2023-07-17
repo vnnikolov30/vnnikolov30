@@ -2,7 +2,10 @@
 
 **` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
 
-### Hi there 👋
+### Hello there! 👋
+[hellothere.webm](https://github.com/vnnikolov30/vnnikolov30/assets/122814861/f15ab192-4f7c-4cac-976f-7215032093a5)
+
+
 My name is Viktor. Welcome to my own little digital world!
 
 I am currently studying Software Engineering with Python 🐍 at Software University (SoftUni), i've also dabbled in some JS, HTML and CSS.
@@ -31,7 +34,11 @@ I am very passionate about video games so once i master Python i will start lear
 </p>
 
 #
+### 🧪 Stats
 
+![Vik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnikolov30&show_icons=true&theme=tokyonight)
+
+#
 <details>
  <summary><h3>👨🏽‍💻 Vik's Hobbies🎵🕹️ </h3></summary>
    🎵
