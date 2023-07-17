@@ -19,10 +19,9 @@ I am very passionate about video games so once i master Python i will start lear
 ---
 
 ### 👨🏽‍💻 Languages and Tools
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="pycharm" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="vertical-align:top; margin:4px"></a>
 <br />
 
 #
