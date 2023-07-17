@@ -1,16 +1,54 @@
+# 👽 Viktor Nikolov 
+
+**` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
+
 ### Hi there 👋
+My name is Viktor. Welcome to my own little digital world!
 
-<!--
-**vnnikolov30/vnnikolov30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying Software Engineering with Python 🐍 at Software University (SoftUni), i've also dabbled in some JS, HTML and CSS.
 
-Here are some ideas to get you started:
+I have worked on some really small projects like an AI image generator🎨, a simple platformer using Pygame 🕹️ and i am also in the process of developing a website/portfolio for my music production alias "Voorhees"🎵. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have some experience with the GODOT game engine which i'm currently using for the development of a 2D zelda-like rpg ⚔️🛡️. 
+
+I am very passionate about video games so once i master Python i will start learning C# in the hopes of one day landing a job in the Video Game Industry 👾🎮
+
+---
+
+### 👨🏽‍💻 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg"/>
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<br />
+
+#
+
+## 🌍 Lets get in touch!:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/viktor-nikolov-677129245/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+#
+
+<details>
+ <summary><h3>👨🏽‍💻 Vik's Hobbies🎵🕹️ </h3></summary>
+   🎵
+   Apart from my passion for all things tech my first love was music.
+   I am a self taught guitarist and music producer, i've fronted several bands and helped in the recording process for some local musicians in my teenage years. 
+   I am currently making house music under my alias "Voorhees" in the hopes of some day landing a record deal.
+   
+   🕹️
+   Video games have also been a big part of my life since I received my first PC at the tender age of 5. I've been hooked ever since! 
+   My favourite genre is RPG. My top three series are:
+
+   * Mass effect 
+   * The Elder Scrolls
+   * Dragon Age
+   
+   One honarable mention is World of Warcraft. I got hooked when TBC launched and it's been in my life ever since. 
+   
+   I've composed music for some small indie projects and i also did some level design as well. 
+
+   Anyways, thats all the stuff i can think of, thank you for taking the time to read through all this !😃
