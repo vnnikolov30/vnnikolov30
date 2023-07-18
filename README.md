@@ -33,11 +33,7 @@ I am very passionate about video games so once i master Python i will start lear
 </p>
 
 #
-### 🧪 Stats
 
-![Vik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnikolov30&show_icons=true&theme=tokyonight)
-
-#
 <details>
  <summary><h3>👨🏽‍💻 Vik's Hobbies🎵🕹️ </h3></summary>
    🎵
