@@ -23,6 +23,7 @@ I am very passionate about video games so once i master Python i will start lear
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="pycharm" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px">
 <br />
 
 #
