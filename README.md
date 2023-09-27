@@ -4,7 +4,7 @@
 
 **` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
 
-# Hello there! 👋
+## Hello there! 👋
 
 My name is Viktor. Welcome to my own little digital world!
 
@@ -18,7 +18,7 @@ I am very passionate about video games so once i master Python i will start lear
 
 ---
 
-## 👨🏽‍💻 Languages and Tools
+### 👨🏽‍💻 Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="pycharm" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="vertical-align:top; margin:4px"></a>
@@ -28,7 +28,7 @@ I am very passionate about video games so once i master Python i will start lear
 
 #
 
-## 🌍 Lets get in touch!:
+### 🌍 Lets get in touch!:
 
 <p align="center">
  <a href="https://www.linkedin.com/in/viktor-nikolov-677129245/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
@@ -61,7 +61,7 @@ I am very passionate about video games so once i master Python i will start lear
 
    #
 
-## 🧪 STATS
+### 🧪 STATS
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vnnikolov30&show_icons=true&theme=ocean_dark"/>
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnnikolov30&layout=compact"/>
