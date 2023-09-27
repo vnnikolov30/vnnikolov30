@@ -4,7 +4,7 @@
 
 **` Python Student(Coding Enthusiast/Guitarist/Music nerd/Part time alien `**
 
-### Hello there! 👋
+# Hello there! 👋
 
 My name is Viktor. Welcome to my own little digital world!
 
@@ -18,13 +18,13 @@ I am very passionate about video games so once i master Python i will start lear
 
 ---
 
-### 👨🏽‍💻 Languages and Tools
+## 👨🏽‍💻 Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="pycharm" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" style="vertical-align:top; margin:4px">
-<br />
+<br>
 
 #
 
@@ -56,3 +56,16 @@ I am very passionate about video games so once i master Python i will start lear
    I've composed music for some small indie projects and i also did some level design as well. 
 
    Anyways, thats all the stuff i can think of, thank you for taking the time to read through all this !😃
+  </details>
+  <br>
+
+   #
+
+## 🧪 STATS
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vnnikolov30&show_icons=true&theme=ocean_dark"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnnikolov30&layout=compact"/>
+
+<br>
+
+   
