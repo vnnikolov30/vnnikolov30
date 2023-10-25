@@ -24,6 +24,7 @@ I am very passionate about video games so once i master Python i will start lear
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" style="vertical-align:top; margin:4px">
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <br>
 
 #
