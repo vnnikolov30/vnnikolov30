@@ -8,13 +8,11 @@
 
 My name is Viktor. Welcome to my own little digital world!
 
-I am currently studying Software Engineering with Python 🐍 at Software University (SoftUni), i've also dabbled in some JS, HTML and CSS as well as QA Testing 🕷️.
+I am currently studying Web Development at Software University (SoftUni), in hopes of one day becoming a full-stack dev. I also have some experience in QA 🕷️.
 
-I have worked on some really small projects like an AI image generator🎨, a simple platformer using Pygame 🕹️ and i am also in the process of developing a website/portfolio for my music production alias "Voorhees"🎵. 
+Front-end has become a great passion for me and i am currently mastering JS as well as React⚛️. 
+I am also in the process of learning the MERN stack 🌐.
 
-I also have some experience with the GODOT game engine which i'm currently using for the development of a 2D zelda-like rpg ⚔️🛡️. 
-
-I am very passionate about video games so once i master Python i will start learning C# in the hopes of one day landing a job in the Video Game Industry 👾🎮
 
 ---
 
